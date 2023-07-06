@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics, Data eengineering and DAta science
 - 🌱 I’m currently learning Databricks and many tools of Azure
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [LinkedIn](www.linkedin.com\in\aescuderos)
+- 📫 How to reach me [LinkedIn](linkedin.com/in/aescuderos)
 
 <!---
 A-escudero-s/A-escudero-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
